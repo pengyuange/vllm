@@ -472,6 +472,10 @@ _MULTIMODAL_MODELS = {
         "qwen3_omni_moe_thinker",
         "Qwen3OmniMoeThinkerForConditionalGeneration",
     ),
+    "Qwen3OmniForConditionalGeneration": (
+        "qwen3_omni_thinker",
+        "Qwen3OmniThinkerForConditionalGeneration",
+    ),
     "Qwen3ASRForConditionalGeneration": (
         "qwen3_asr",
         "Qwen3ASRForConditionalGeneration",
